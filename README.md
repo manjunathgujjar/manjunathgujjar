@@ -90,6 +90,9 @@ Two autonomous workers living entirely in GitHub Actions cron jobs: one digests 
 ![LangChain](https://img.shields.io/badge/-LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=f59e0b)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=f59e0b)
 ![Anthropic](https://img.shields.io/badge/-Claude-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=f59e0b)
+![Gemini](https://img.shields.io/badge/-Gemini-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=f59e0b)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-1a1a1a?style=for-the-badge&logoColor=f59e0b)
+![Agent Dev Kit](https://img.shields.io/badge/-Agent%20Dev%20Kit-1a1a1a?style=for-the-badge&logoColor=f59e0b)
 
 **Backend / Frontend**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=f59e0b)
@@ -106,6 +109,7 @@ Two autonomous workers living entirely in GitHub Actions cron jobs: one digests 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=f59e0b)
 ![AWS](https://img.shields.io/badge/-AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=f59e0b)
 ![Azure](https://img.shields.io/badge/-Azure-1a1a1a?style=for-the-badge&logo=microsoftazure&logoColor=f59e0b)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=f59e0b)
 
 **Observability / Evals**
 ![Prometheus](https://img.shields.io/badge/-Prometheus-1a1a1a?style=for-the-badge&logo=prometheus&logoColor=f59e0b)
@@ -129,7 +133,7 @@ Two autonomous workers living entirely in GitHub Actions cron jobs: one digests 
 
 - **M.S. Computer Science** — University of Maryland, Baltimore County
 - **B.S. Computer Science** — Jawaharlal Nehru Technological University, Hyderabad
-- Certified: Azure AI Engineer · AWS Solutions Architect · Agentforce Innovator · Claude Code in Action
+- Certified: Google AI Professional Certificate · Azure AI Engineer · AWS Solutions Architect · Agentforce Innovator · Claude Code in Action
 
 ---
 
